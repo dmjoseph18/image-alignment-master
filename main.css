@@ -20,7 +20,7 @@ p {
 }
 
 img {
-
+max-width: 100%;
 }
 
 img.right {
